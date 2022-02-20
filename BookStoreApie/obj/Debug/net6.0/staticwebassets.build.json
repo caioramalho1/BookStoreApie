@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c8vLgVXQ1hbxs3wUPrGqlTyDeMLvCFJEokMRPafse2I=",
+  "Source": "BookStoreApie",
+  "BasePath": "_content/BookStoreApie",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
